@@ -32,8 +32,8 @@ This project is a final thesis implementation that aims to assist the badminton 
 ## 👤 Authors
 
 Danar Mukti Wibowo (DanarCode)
-Mahasiswa Teknik Informatika, Universitas Indraprasta
-Informatics Engineering Student, Indraprasta University
+- Mahasiswa Teknik Informatika, Universitas Indraprasta
+- Informatics Engineering Student, Indraprasta University
 
 ## 🛠️ Teknologi & Arsitektur
 - **Bahasa Pemrograman:** PHP (Native)  
