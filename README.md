@@ -41,26 +41,82 @@ Informatics Engineering Student, Indraprasta University
 - **Database:** MySQL  
 - **Struktur Folder Utama:**
 ```
-spk-perlengkapan-bulutangkis/
-├─ config/
-│ └─ dbcon.php
-├─ includes/
-│ ├─ header.php
-│ └─ footer.php
-├─ pages/
-│ ├─ login.php
-│ ├─ dashboard.php
-│ ├─ kriteria.php
-│ ├─ alternatif.php
-│ ├─ perbandingan.php
-│ └─ hasil.php
-├─ assets/
-│ ├─ css/
-│ └─ js/
-├─ functions/
-│ └─ functions.php
-├─ index.php
-└─ logout.php
+spk-perlengkapan-bulutangkis
+│   apa-itu-ahp-saw.php
+│   cetak-ranking.php
+│   Hasil-perbandingan.php
+│   index.php
+│   login-code.php
+│   login.php
+│   logout.php
+│   pemilihan.php
+│   perbandingan.php
+│   ranking-saw.php
+│   user-login.php
+│   user-register.php
+│
+├───assets
+│   ├───css
+│   │       style.css
+│   │
+│   ├───img
+│   │       LOGO.png
+│   │       S__12959749.jpg
+│   │
+│   └───js
+│           script.js
+│
+├───config
+│       dbcon.php
+│       functions.php
+│
+├───includes
+│       footer.php
+│       header.php
+│       navbar-secondary.php
+│       navbar.php
+│
+└───pages
+    │   addKriteria.php
+    │   admins-create.php
+    │   admins.php
+    │   authentication.php
+    │   cetak-ranking.php
+    │   cetak.php
+    │   code.php
+    │   hasil-perhitungan.php
+    │   hasil-saw.php
+    │   index.php
+    │   nilai-alternatif.php
+    │   perhitungan-kriteria.php
+    │   ranking.php
+    │   user-register.php
+    │   user-view.php
+    │
+    ├───assets
+    │   ├───css
+    │   │       styles.css
+    │   │
+    │   ├───demo
+    │   │       chart-area-demo.js
+    │   │       chart-bar-demo.js
+    │   │       chart-pie-demo.js
+    │   │       datatables-demo.js
+    │   │
+    │   ├───img
+    │   │       error-404-monochrome.svg
+    │   │       LOGO.png
+    │   │
+    │   └───js
+    │           custom.js
+    │           datatables-simple-demo.js
+    │           scripts.js
+    │
+    └───includes
+            footer.php
+            header.php
+            navbar.php
+            sidebar.php
 ```
 
 ## Features
