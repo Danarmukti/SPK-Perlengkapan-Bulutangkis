@@ -40,6 +40,7 @@ Informatics Engineering Student, Indraprasta University
 - **Framework CSS:** Bootstrap  
 - **Database:** MySQL  
 - **Struktur Folder Utama:**
+```
 spk-perlengkapan-bulutangkis/
 ├─ config/
 │ └─ dbcon.php
@@ -60,7 +61,7 @@ spk-perlengkapan-bulutangkis/
 │ └─ functions.php
 ├─ index.php
 └─ logout.php
-
+```
 
 ## Features
 
